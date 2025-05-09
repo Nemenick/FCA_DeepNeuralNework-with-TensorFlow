@@ -13,7 +13,7 @@ def sigma_diff(x):
 def imparo_ising(n=35, ntrain=10, ntest=14, precision=10 ** (-0.5), dt=10 ** (-1.5), gamma=0.8, read_file=True):
     """
     This is the Python implementation of the network with one hidden layer (containing two hidden neurons)
-    that you probably already saw in Fortran
+    and one output layer. The network aims to predict if an Ising configuration is above or under tc
 
     A name of an example file accepted is 35conf4.dat
     Here 35 corresponds to the number of spin per dimension (35x35)
