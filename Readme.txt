@@ -10,6 +10,6 @@ Deep_Conv_ising.py		-	build a Convolutional Neural Network made up of FullyConne
 files *.dat are our data. You can generate new data by yourself using conf_file_generator.py (it can be very slow). Some data are alredy provided attached.
 
 
-To install the needed libraries, run the commands contained in "Run_this_for_installing.ipynb". Follow the steps:
+To install the needed libraries, run the commands contained in "Useful_libraries.ipynb". Follow the steps:
 -	select your virtual environment in VS Code, or PyCharm (or don't activate if you want to install the libraries globally);
 -	Run the commands in each cell.
