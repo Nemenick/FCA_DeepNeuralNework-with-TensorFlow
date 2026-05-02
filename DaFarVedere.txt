@@ -1,0 +1,3 @@
+Mostra come funziona ipynb
+MOSTRA GOOGLE COLAB (accedi -> open file -> copia su drive)
+'https://raw.githubusercontent.com/username/repository/main/path/to/File.something'
